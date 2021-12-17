@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stubbs-test/static/css/main.adcd31df.chunk.css",
+    "main.js": "/stubbs-test/static/js/main.821e81d5.chunk.js",
+    "main.js.map": "/stubbs-test/static/js/main.821e81d5.chunk.js.map",
+    "runtime-main.js": "/stubbs-test/static/js/runtime-main.efd9b501.js",
+    "runtime-main.js.map": "/stubbs-test/static/js/runtime-main.efd9b501.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/stubbs-test/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.0c11b9b9.chunk.js": "/stubbs-test/static/js/2.0c11b9b9.chunk.js",
+    "static/js/2.0c11b9b9.chunk.js.map": "/stubbs-test/static/js/2.0c11b9b9.chunk.js.map",
+    "index.html": "/stubbs-test/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/stubbs-test/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.adcd31df.chunk.css.map": "/stubbs-test/static/css/main.adcd31df.chunk.css.map",
+    "static/js/2.0c11b9b9.chunk.js.LICENSE.txt": "/stubbs-test/static/js/2.0c11b9b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd9b501.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.0c11b9b9.chunk.js",
+    "static/css/main.adcd31df.chunk.css",
+    "static/js/main.821e81d5.chunk.js"
+  ]
+}

@@ -1,0 +1,38 @@
+.form{
+    width: 100%;
+}
+.input{
+    width: inherit;
+    position: relative;
+    padding: 27px 50px 27px 16px;
+    background: var(--main-bg);
+    box-shadow: 12px 26px 50px rgba(90, 108, 234, 0.07);
+    border-radius: 15px;
+    outline: none;
+
+    color: var(--font-color);
+    font-size: 18px;
+    line-height: 0.8;
+    letter-spacing: 0.5px;
+
+   
+    border: none;
+}
+.button{
+    position: absolute;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    right: 27px;
+    bottom: 33px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.img{
+    width: inherit;
+    height: inherit;
+}
+img:hover{
+  
+}
