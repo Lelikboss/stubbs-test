@@ -18,7 +18,7 @@ const Form = () => {
         <form className={s.form} onSubmit={handleSubmit}>
             <input className={s.input} value={message} onChange={handleChange} autoComplete="off" placeholder="type text" type='text'/>
             <button disabled={message === "" && true} className={s.button}>
-                <img className={s.img} alt='qwe' src={sendIcon}/>
+                <img className={s.img} alt='icon send' src={sendIcon}/>
             </button> 
         </form>
         </>
